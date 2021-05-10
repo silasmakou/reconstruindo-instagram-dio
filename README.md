@@ -1,7 +1,16 @@
 # Recriando a Página Inicial do Instagram
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/silasmakou/reconstruindo-instagram-dio">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/silasmakou/reconstruindo-instagram-dio?logo=html">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/silasmakou/reconstruindo-instagram-dio?color=green">
+  <br>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/silasmakou/reconstruindo-instagram-dio">
+  <a href="https://www.linkedin.com/in/silas-coutinho/">
+    <img alt="Made by Silas" src="https://img.shields.io/badge/made%20by-Silas-%2304D361">
+  </a>
+</p>
 
-
-
+![principal](https://user-images.githubusercontent.com/79108882/117722023-f3f4c100-b1b6-11eb-81db-f22a910ce2a7.jpg)
 
 
 
